@@ -1,0 +1,22 @@
+Integração Trello x Conecta
+
+Melhorando a Comunicação com Clientes
+
+Objetivo:
+
+A solução busca automatizar o envio de mensagens de texto via WhatsApp para manter os clientes informados sobre o progresso de seus projetos.
+
+Como funciona:
+
+Nossa integração entre os sistemas é realizada através de uma ferramenta de automação de fluxos, que age como intermediária entre o Trello e o Conecta. Quando um cartão de projeto é movido para uma nova fase no Trello, a ferramenta recebe uma notificação, que é utilizada como gatilho para enviar uma mensagem de texto ao cliente através de canais de comunicação disponíveis, como WhatsApp ou Telegram. Dessa forma, o cliente fica atualizado sobre o andamento do projeto e qualquer novo comentário inserido no cartão.
+
+O que a solução resolve:
+
+Aumenta a produtividade: Com a integração, a comunicação sobre o progresso do projeto é automatizada, eliminando a necessidade de atualizações manuais e permitindo que a equipe foque em tarefas mais estratégicas e produtivas.
+
+Fortalece o relacionamento com o cliente: Mantendo os clientes informados de forma proativa, evitando ruídos e mal-entendidos, você fortalece o relacionamento com eles, aumentando a confiança e a satisfação.
+
+Resumo:
+
+Essa solução supera o desafio de manter os clientes atualizados sobre o andamento de seus projetos de forma eficiente e automática. Ao enviar notificações automáticas sobre mudanças de fase ou status, a equipe economiza tempo, evita erros de comunicação e mantém um relacionamento próximo e transparente com os clientes, resultando em maior eficiência e satisfação geral.
+

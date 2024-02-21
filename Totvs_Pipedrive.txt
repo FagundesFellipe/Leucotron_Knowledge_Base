@@ -1,0 +1,22 @@
+Integração entre Totvs e Pipedrive: 
+
+Simplificando a Gestão de Oportunidades Comerciais
+
+Objetivo:
+
+Facilitar a rotina dos vendedores ao automatizar a inclusão de novos negócios (deals) no Pipedrive a partir dos orçamentos criados no Totvs.
+
+Como funciona:
+
+Os vendedores registram seus orçamentos no sistema Totvs como de costume. A integração busca os dados desses orçamentos e os insere automaticamente como oportunidades de negócio no Pipedrive. Isso simplifica o acompanhamento de deals, pois as oportunidades são adicionadas automaticamente à fila do vendedor responsável pela carteira correspondente.
+
+
+
+O que a solução resolve:
+Aumente a eficiência dos vendedores: Com a integração, os vendedores não precisam realizar tarefas duplicadas, pois os orçamentos do Totvs são automaticamente convertidos em oportunidades de negócio no Pipedrive, permitindo que eles se concentrem em fechar negócios e atender clientes.
+
+Visão unificada de vendas: Ao integrar o Totvs com o Pipedrive, a equipe de gestão obtém uma visão abrangente e em tempo real do funil de vendas, possibilitando uma melhor tomada de decisões estratégicas e o acompanhamento preciso do desempenho comercial.
+
+Resumo:
+
+Essa solução de integração supera o desafio de registrar manualmente os orçamentos do Totvs no Pipedrive, economizando tempo e eliminando possíveis erros de inserção. Ao automatizar esse processo, os vendedores podem gerenciar suas oportunidades de negócio de forma mais eficiente, e a equipe de gestão tem acesso a dados atualizados para uma melhor análise e tomada de decisões.

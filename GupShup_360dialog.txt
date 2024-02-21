@@ -1,0 +1,19 @@
+Integração com GupShup e 360dialog
+
+Solução de Automação para Gerenciamento de consumo de mensangens para criação de faturas de Clientes com numeros de WhatsApp na Gupshup e/ou 360dialog
+Descubra a facilidade de automatizar o processo de obtenção e tratamento dos dados de consumo de mensagens dos seus clientes através de integração com o broker.
+
+Como funciona:
+
+Imagine nunca mais perder horas coletando manualmente dados de consumo para fazer a fatura do cliente.  Com nossa solução, um fluxo de automação é criado para obter automaticamente os dados da fatura de todos os clientes por meio de uma simples requisição à API do Broker (se este permitir). Em seguida, os dados passam por tratativas, de modo automatico, como soma de valores e ajuste de formato, antes de serem inseridos em uma base de dados. Isso significa que todas as informações estarão organizadas e disponíveis para consulta em uma planilha do Google Sheets ou outro sistema, permitindo análises rápidas e sob medida.
+
+O que a solução resolve:
+
+Economize tempo valioso: Ao automatizar a obtenção e tratamento de dados das faturas dos clientes, sua equipe não precisará mais gastar horas tediosas coletando informações manualmente, podendo direcionar seus esforços para tarefas mais estratégicas e importantes.
+
+Decisões informadas: Com acesso rápido e fácil aos dados das faturas em uma planilha ou sistema de sua preferência, você poderá tomar decisões mais embasadas e estratégicas para otimizar seus processos e melhorar a satisfação dos clientes.
+
+Resumo:
+
+Nossa solução de integração resolve o desafio de gerenciar manualmente os dados das faturas dos clientes. Ao automatizar o processo de coleta e tratamento, ela oferece economia de tempo, redução de erros e informações organizadas 
+para embasar decisões inteligentes e aprimorar a eficiência operacional.
