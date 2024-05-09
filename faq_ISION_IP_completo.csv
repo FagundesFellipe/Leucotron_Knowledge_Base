@@ -1,0 +1,59 @@
+Perguntas,Respostas
+O que é o Sistema ISION IP?,"O Sistema ISION IP é uma plataforma de comunicação híbrida, VoIP e comutação temporal, utilizando tecnologia de Controle por Programa Armazenado. Ele permite a interconexão de terminais SIP, linhas telefônicas IP, terminais convencionais analógicos e/ou digitais, terminais inteligentes, linhas telefônicas convencionais analógicas e/ou digitais, além de recursos CTI (Computer & Telephony Integration)."
+Como posso realizar uma chamada de conferência?,"1. Estabeleça chamadas para cada parte individualmente.
+2. Coloque cada chamada em espera: FLASH ou *** (terminais IP).
+3. Execute o comando de reunião: FLASH + 19.
+4. Todas as conversações que estiverem em espera serão agrupadas numa única conversação, com emissão de um bip periódico de alerta.
+Para incluir novos membros, pressione FLASH novamente e chame a nova parte."
+O que acontece quando uma transferência sem consulta não é atendida?,"1. O ramal é chamado por 60 segundos.
+2. Se não for atendido, a ligação retorna ao usuário autor da transferência, se possível.
+3. Se este estiver ocupado ou não atender em 15 segundos, a ligação é encaminhada para a telefonista.
+4. Se a telefonista não atender, a linha-tronco é liberada."
+Como posso capturar chamadas de um setor?,"*52 + número do setor (dois dígitos). Se o setor indicado for o seu próprio, substitua o número por um asterisco (*)."
+Quais são os tipos de toques de chamadas disponíveis?,"Existem dois tipos: Toque interno, indicando uma ligação de origem interna, e Toque externo, indicando uma ligação de origem externa."
+Como ativar o cadeado eletrônico?,"Para programar, disque *835 + senha do seu ramal. Para desprogramar, disque *836 + senha do seu ramal."
+Como posso alterar a senha?,"Para alterar a senha, disque *837 + senha antiga + nova senha + '#'."
+Como realizar um login no sistema?,"Para realizar um login, disque *84 + número de acesso da personalidade + senha. Para terminais SIP, basta completar um registro SIP."
+Como colocar uma ligação em espera?,"Para colocar uma ligação em espera, pressione FLASH ou *** (em caso de terminais IP). Para recuperá-la, pressione novamente FLASH + 14."
+O que é a intercalação especial?,"A intercalação especial permite ao supervisor monitorar uma conversação sem ser notado, sendo ativada ao discar FLASH + 102. Já a intercalação de treinamento permite ao supervisor participar da conversa."
+Como posso programar um Siga-me interno?,"Para programar o Siga-me interno, disque *823 + número de acesso do destino + senha. Para programar no destino, disque *821 + seu número de acesso + senha."
+Qual o comando para capturar uma chamada específica?,"Para capturar uma chamada específica, disque 16 + número de acesso do terminal que está tocando."
+Como recuperar as mensagens do correio de voz?,"Para recuperar as mensagens do correio de voz, disque 1001 ou 1002 + número de seu ramal."
+Como liberar uma chamada externa?,"Para liberar a última conversação externa, disque FLASH + 15."
+Como realizar uma transferência com consulta?,"Para realizar uma transferência com consulta, disque FLASH + número de acesso do usuário desejado, converse e, depois, reponha o monofone ou pressione FLASH + 13."
+Como programar a hora do despertador?,"Para programar a hora do despertador, disque *8976 + hora e minuto no formato 24h."
+Como ouvir a hora certa?,"Para ouvir a hora certa, disque #130."
+Qual comando permite acessar um setor específico?,"Para acessar um setor, disque *51 + número do setor."
+Como realizar uma discagem externa?,"Para realizar uma discagem externa, disque '0' + número do contato externo."
+Como atender uma ligação pendente?,"Para atender uma ligação pendente, disque FLASH + 12."
+Como ativar a função Não Perturbe?,"Para ativar a função Não Perturbe, disque *839 + senha do seu ramal. Para desativar, disque *830."
+Como posso acessar o sistema de autofalantes?,"Para acessar o sistema de autofalantes, disque 108."
+Quais os principais recursos CTI?,"Os principais recursos CTI incluem correio de voz, gravador de chamadas para 8 canais, tarifador, gerenciamento de Call Center, entre outros."
+Como posso realizar discagens internas?,"Para realizar discagens internas, disque o número de acesso correspondente."
+Qual comando retorna ao último ramal que ligou?,"Para retornar ao último ramal que ligou, disque 103."
+Como funciona a intercalação de telefonista?,"A intercalação de telefonista permite que a telefonista interfira numa ligação em curso, discando FLASH + 101."
+Como estacionar ligações e recuperá-las?,"Para estacionar ligações, disque *58 + número da vaga (01 a 99). Para recuperá-las, disque *57 + número da vaga."
+Qual o conceito de Personalidades?,"O conceito de Personalidades consiste em atribuir uma identidade (número) a qualquer usuário, independente do terminal, mantendo suas configurações e comportamento."
+Quais são as categorias de ramais no Sistema ISION?,"Existem cinco categorias: Privilegiado, Semiprivilegiado, Semirrestrito, Restrito e Semirrestrito com acesso à agenda."
+Quais são os principais tipos de tons do sistema?,"Os principais tons incluem Tom de discar, Tom de ocupado, Tom de confirmação e Tom de erro."
+Como acessar a lista de comandos disponíveis?,Acesse o capítulo Lista de Comandos do manual para verificar os comandos disponíveis.
+Como alterar o perfil do sistema?,"Para alterar o perfil do sistema, disque #1050 para o perfil principal ou #1051 para o perfil alternativo."
+Quais são os modos de operação do Siga-me Externo?,"Os modos de operação do Siga-me Externo incluem Modo 0 (Desligado), Modo 1 (Desvia todas as ligações internas) e Modo 3 (Desvia ligações internas e externas)."
+Qual o comando para configurar a agenda privativa?,"Para configurar a agenda privativa, disque *87 + posição da agenda."
+Como a Personalidade é vinculada a um terminal?,A Personalidade é vinculada a partir de um login feito diretamente no terminal ou por registro SIP.
+Como um terminal SIP pode se logar no sistema?,"Os terminais SIP completam um registro SIP no sistema, vinculando o terminal à personalidade."
+Qual a capacidade de participantes por grupo de conferência?,Grupos de conferência podem ter até 8 participantes.
+Como acessar a agenda telefônica do usuário?,"Para acessar a agenda telefônica do usuário, disque *7 + posição da agenda."
+Quais são as licenças disponíveis no ISION IP?,"As licenças disponíveis incluem correio de voz, gravador, tarifador, entre outras."
+Como rediscagem externa pode ser realizada?,"Para realizar uma rediscagem externa, disque FLASH + 11."
+Como obter o número de acesso?,"Para obter o número de acesso, disque #100."
+Como alterar o modo DDR flexível?,"Para alterar o modo DDR flexível, disque #1052*fm."
+Qual comando ativa a intercalação de treinamento?,"Para ativar a intercalação de treinamento, disque FLASH + 102."
+Como realizar uma consulta externa?,"Para realizar uma consulta externa, disque FLASH + '0' + número do assinante externo."
+Como ativar a função Siga-me no destino?,"Para ativar o Siga-me no destino, disque *821 + seu número de acesso + senha."
+Qual o procedimento para acessar o correio de voz?,"Para acessar o correio de voz, disque 1001 ou 1002 + senha do ramal."
+Quais são as configurações recomendadas para a intercalação especial?,"O administrador pode permitir a intercalação especial para usuários específicos, que podem monitorar conversas sem serem notados."
+Como o administrador pode alterar a data e hora do sistema?,"Para alterar a data e a hora do sistema, o administrador deve discar #106 ddmmaaHHMMSS."
+Como se pode obter Tom de Discar Interno?,"Para obter Tom de Discar Interno, pressione FLASH ou ***."
+Qual comando permite alterar a senha pessoal?,"Para alterar a senha pessoal, disque *837 + senha antiga + nova senha + '#'."
+Como liberar a última conversação interna?,"Para liberar a última conversação interna, disque FLASH + 17."
